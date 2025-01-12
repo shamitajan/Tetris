@@ -33,23 +33,6 @@ The project is built with a modular approach, leveraging object-oriented program
 - A C++ compiler (e.g., GCC, MSVC).
 - A Windows or Linux environment.
 
-🎮 **Gameplay Instructions**
-**Controls:**
-Use arrow keys to move the pieces left, right, or down.
-Press up arrow to rotate the piece.
-Spacebar drops the piece instantly.
-**Objective:**
-Complete horizontal lines on the board to score points.
-Avoid letting the blocks reach the top of the screen.
-
-**📚 Code Highlights
-Random Piece Generation:**
-Pieces are generated using a random number generator seeded with the current time to ensure variability.
-**Efficient Rendering:**
-Blocks are rendered using pixel-perfect calculations for smooth visuals.
-**Dynamic Board Management:**
-Pieces integrate seamlessly with the board, and completed lines are cleared automatically.
-
 📧 Contact
 For feedback, suggestions, or collaboration, feel free to reach out:
 
