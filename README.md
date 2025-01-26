@@ -33,7 +33,9 @@ The project is built with a modular approach, leveraging object-oriented program
 - A C++ compiler (e.g., GCC, MSVC).
 - A Windows or Linux environment.
 
-📧 Contact
+##📧 **Contact**
 For feedback, suggestions, or collaboration, feel free to reach out:
-
 Email: jshamita075@gmail.com
+
+## **Acknowledgments** 🙌
+Thank you for checking out this implementation of Tetris!
